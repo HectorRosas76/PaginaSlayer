@@ -59,3 +59,18 @@ footer{
     right: 20px;
     z-index: 1;
 }
+
+.circule{
+width: 10px;
+height: 10px;
+background-color: white;
+border-radius: 50%;
+animation-name: girar;
+animation-duration: 2s; 
+animation-iteration-count: infinite;
+animation-timing-function: ease-in;
+}
+
+@keyframes girar {
+ 
+}
