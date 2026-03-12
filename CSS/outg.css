@@ -72,5 +72,9 @@ animation-timing-function: ease-in;
 }
 
 @keyframes girar {
+    from{top: 100vh;}
+    to {top: ;}
+
+    }
  
 }
